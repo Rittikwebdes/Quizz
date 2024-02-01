@@ -1,2 +1,2 @@
-# Quizz
-My first quizz apk
+# quiz
+ Quizz Apk
